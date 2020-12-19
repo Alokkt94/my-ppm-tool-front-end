@@ -1,0 +1,8 @@
+.HeaderMain{
+    color: blue;
+}
+
+.HeaderMain__Option{
+    padding-left: 600px;
+    display: flex;
+}

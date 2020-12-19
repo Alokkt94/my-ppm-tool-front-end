@@ -1,0 +1,22 @@
+.ProjectItem__project_board{
+    color: #2537f9;
+}
+.ProjectItem__project_board:hover{
+    color : #2ab6f7;
+}
+
+.ProjectItem__update_project{
+    color: #0ba5ed;
+}
+
+.ProjectItem__update_project:hover{
+    color : #0eb7b1;
+}
+
+.ProjectItem__delete_project{
+    color : #f22443;
+}
+
+.ProjectItem__delete_project:hover{
+    color : #eda8b2;
+}
